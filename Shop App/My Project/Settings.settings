@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="Host" Type="System.String" Scope="User">
+      <Value Profile="(Default)">209.97.162.143</Value>
+    </Setting>
+    <Setting Name="HUser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">admin2</Value>
+    </Setting>
+    <Setting Name="HPass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Asdfg51A!</Value>
+    </Setting>
+    <Setting Name="HName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">systemx</Value>
+    </Setting>
+    <Setting Name="HPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3306</Value>
+    </Setting>
+    <Setting Name="Username" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Password" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Address" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="fullname" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="email" Type="System.String" Scope="User">
+      <Value Profile="(Default)">-</Value>
+    </Setting>
+    <Setting Name="phone" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Charset" Type="System.String" Scope="User">
+      <Value Profile="(Default)">utf8</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
