@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Shop Service\Shop Service\bin\Debug\Shop Service.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Shop Service\Shop Service\bin\Debug\Shop Service.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Shop Service\Shop Service\bin\Debug\Shop Service.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Shop Service\Shop Service\obj\Debug\Shop_Service.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Shop Service\Shop Service\obj\Debug\Shop_Service.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Shop Service\Shop Service\obj\Debug\Shop Service.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Shop Service\Shop Service\obj\Debug\Shop Service.exe
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Shop Service\Shop Service\obj\Debug\Shop Service.xml
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Shop Service\Shop Service\obj\Debug\Shop Service.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\Shop Service\Shop Service\bin\Debug\Shop Service.exe.config
